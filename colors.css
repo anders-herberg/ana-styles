@@ -1,0 +1,155 @@
+/*primary-denim*/
+var(--Primary-Denim-50, #F0F3FE);
+var(--Primary-Denim-100, #EBEEFE);
+var(--Primary-Denim-200, #D6DCFF);
+var(--Primary-Denim-300, #BDC7FE);
+var(--Primary-Denim-400, #97A6FC);
+var(--Primary-Denim-500, #697FF7);
+var(--Primary-Denim-600, #4A61E8);
+var(--Primary-Denim-700, #3649BA);
+var(--Primary-Denim-800, #263273);
+var(--Primary-Denim-900, #19204C);
+
+/*secondary-slate*/
+var(--Secondary-Slate-50, #F1F4F8);
+var(--Secondary-Slate-100, #ECEEF4);
+var(--Secondary-Slate-200, #E1E3ED);
+var(--Secondary-Slate-300, #BDC2CE);
+var(--Secondary-Slate-400, #828A9A);
+var(--Secondary-Slate-500, #69707E);
+var(--Secondary-Slate-600, #515767);
+var(--Secondary-Slate-700, #384552);
+var(--Secondary-Slate-800, #2B2E37);
+var(--Secondary-Slate-900, #1A2938);
+
+/*error-apple*/
+var(--Error-Apple-50, #FBE6E7);
+var(--Error-Apple-100, #F5C2C4);
+var(--Error-Apple-200, #EF9DA1);
+var(--Error-Apple-300, #E8787E);
+var(--Error-Apple-400, #E2545B);
+var(--Error-Apple-500, #DC2F37);
+var(--Error-Apple-600, #D60A14);
+var(--Error-Apple-700, #B60911);
+var(--Error-Apple-800, #96070E);
+var(--Error-Apple-900, #76060B);
+
+/*warning-banana*/
+var(--Warning-Banana-50, #FCF4DC);
+var(--Warning-Banana-100, #FFF1B8);
+var(--Warning-Banana-200, #FFE58F);
+var(--Warning-Banana-300, #FFD666);
+var(--Warning-Banana-400, #FFC53D);
+var(--Warning-Banana-500, #FAAD14);
+var(--Warning-Banana-600, #D48806);
+var(--Warning-Banana-700, #A86500);
+var(--Warning-Banana-800, #8C5627);
+var(--Warning-Banana-900, #874D00);
+
+/*success-grass*/
+var(--Success-Grass-50, #EBFAEE);
+var(--Success-Grass-100, #DCF6EE);
+var(--Success-Grass-200, #9FE2CB);
+var(--Success-Grass-300, #63CBA8);
+var(--Success-Grass-400, #37BA8E);
+var(--Success-Grass-500, #0AA974);
+var(--Success-Grass-600, #088D61);
+var(--Success-Grass-700, #07724E);
+var(--Success-Grass-800, #05563B);
+var(--Success-Grass-900, #033A28);
+
+/*info-sky*/
+var(--Info-Sky-50, #E8F8FF);
+var(--Info-Sky-100, #DBF0FE);
+var(--Info-Sky-200, #A3D7FC);
+var(--Info-Sky-300, #66BCF9);
+var(--Info-Sky-400, #38A7F7);
+var(--Info-Sky-500, #0A93F5);
+var(--Info-Sky-600, #087DD1);
+var(--Info-Sky-700, #0767AC);
+var(--Info-Sky-800, #055188);
+var(--Info-Sky-900, #033B63);
+
+/*carrot*/
+var(--Carrot-Carrot-50, #FFEEE6);
+var(--Carrot-Carrot-100, #FFE7DA);
+var(--Carrot-Carrot-200, #FFC1A0);
+var(--Carrot-Carrot-300, #FF9760);
+var(--Carrot-Carrot-400, #FF7830);
+var(--Carrot-Carrot-500, #FF5900);
+var(--Carrot-Carrot-600, #E14D00);
+var(--Carrot-Carrot-700, #BD3F00);
+var(--Carrot-Carrot-800, #A43400);
+var(--Carrot-Carrot-900, #852800);
+
+/*lime*/
+var(--Lime-Lime-50, #FCFFE6);
+var(--Lime-Lime-100, #F7FED6);
+var(--Lime-Lime-200, #E6F2AE);
+var(--Lime-Lime-300, #C9D673);
+var(--Lime-Lime-400, #B1C14E);
+var(--Lime-Lime-500, #97A82D);
+var(--Lime-Lime-600, #7A8D08);
+var(--Lime-Lime-700, #627106);
+var(--Lime-Lime-800, #556306);
+var(--Lime-Lime-900, #3D4704);
+
+/*rose*/
+var(--Rose-Rose-50, #FFF0F6);
+var(--Rose-Rose-100, #FEE6F0);
+var(--Rose-Rose-200, #FBB3D2);
+var(--Rose-Rose-300, #F993BF);
+var(--Rose-Rose-400, #F772AB);
+var(--Rose-Rose-500, #F55198);
+var(--Rose-Rose-600, #D63D7F);
+var(--Rose-Rose-700, #B82967);
+var(--Rose-Rose-800, #99144E);
+var(--Rose-Rose-900, #7A0035);
+
+/*teal*/
+var(--Teal-Teal-50, #DFF5F7);
+var(--Teal-Teal-100, #C6F7F7);
+var(--Teal-Teal-200, #B3F2F2);
+var(--Teal-Teal-300, #91E7E7);
+var(--Teal-Teal-400, #64DDDD);
+var(--Teal-Teal-500, #03C9C9);
+var(--Teal-Teal-600, #06ABAB);
+var(--Teal-Teal-700, #047777);
+var(--Teal-Teal-800, #016464);
+var(--Teal-Teal-900, #024E4E);
+
+/*violet*/
+var(--Violet-Violet-50, #F2F0FA);
+var(--Violet-Violet-100, #EFEAFF);
+var(--Violet-Violet-200, #D9CDFE);
+var(--Violet-Violet-300, #C1AEFD);
+var(--Violet-Violet-400, #AF96FD);
+var(--Violet-Violet-500, #9D7EFC);
+var(--Violet-Violet-600, #8162E0);
+var(--Violet-Violet-700, #6647C3);
+var(--Violet-Violet-800, #4A2BA7);
+var(--Violet-Violet-900, #2E0F8A);
+
+
+/*text*/
+var(--Text-Primary, #1A2938);
+var(--Text-Secondary, rgba(26, 41, 56, 0.87));
+var(--Text-Tertiary, rgba(26, 41, 56, 0.60));
+var(--Text-Disabled, rgba(26, 41, 56, 0.38));
+var(--Text-Link-Active, #4A61E8);
+
+/*background*/
+var(--Background-Grey, #FAFAFA);
+var(--Background-White, #FFF);
+var(--Background-Disabled, #F1F4F8);
+
+
+
+
+
+
+
+
+
+
+
