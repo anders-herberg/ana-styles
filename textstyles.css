@@ -1,0 +1,94 @@
+/* headline/h1 */
+font-family: "Public Sans";
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 48px; /* 120% */
+letter-spacing: -1.5px;
+
+/* headline/h2 */
+font-family: "Public Sans";
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: 44px; /* 122.222% */
+letter-spacing: -0.5px;
+
+/* headline/h3 */
+font-family: "Public Sans";
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px; /* 125% *
+
+/* headline/h4 */
+font-family: "Public Sans";
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px; /* 133.333% */
+
+/* headline/h5 */
+font-family: "Public Sans";
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px; /* 133.333% */
+letter-spacing: 0.15px;
+
+/* headline/h6 */
+font-family: "Public Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; /* 133.333% */
+letter-spacing: 0.4px;
+
+/* title/subtitle1 */
+font-family: "Public Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.2px;
+
+/* title/subtitle2 */
+font-family: "Public Sans";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 142.857% */
+letter-spacing: 0.1px;
+
+/* body/body1 */
+font-family: "Open Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.15px;
+
+/* body/body2 */
+font-family: "Open Sans";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.857% */
+letter-spacing: 0.25px;
+
+/* body/body3 */
+font-family: "Open Sans";
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.333% */
+letter-spacing: 0.25px;
+
+/* caption/regular */
+font-family: "Open Sans";
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: 14px; /* 140% */
+letter-spacing: 0.4px;
+
